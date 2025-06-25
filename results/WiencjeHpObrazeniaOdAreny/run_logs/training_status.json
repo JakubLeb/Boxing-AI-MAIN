@@ -1,0 +1,30 @@
+{
+    "BoxingAgent": {
+        "elo": 1216.692967499758,
+        "checkpoints": [
+            {
+                "steps": 111939,
+                "file_path": "results\\WiencjeHpObrazeniaOdAreny\\BoxingAgent\\BoxingAgent-111939.onnx",
+                "reward": 51.212985399292734,
+                "creation_time": 1750739102.6115851,
+                "auxillary_file_paths": [
+                    "results\\WiencjeHpObrazeniaOdAreny\\BoxingAgent\\BoxingAgent-111939.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 111939,
+            "file_path": "results\\WiencjeHpObrazeniaOdAreny\\BoxingAgent.onnx",
+            "reward": 51.212985399292734,
+            "creation_time": 1750739102.6115851,
+            "auxillary_file_paths": [
+                "results\\WiencjeHpObrazeniaOdAreny\\BoxingAgent\\BoxingAgent-111939.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

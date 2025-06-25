@@ -6,6 +6,13 @@ TagManager:
   tags:
   - Wall
   - Floor
+  - Agent
+  - Head
+  - Body
+  - Glove
+  - AgentGreen
+  - AgentRed
+  - BoxerGreen
   layers:
   - Default
   - TransparentFX

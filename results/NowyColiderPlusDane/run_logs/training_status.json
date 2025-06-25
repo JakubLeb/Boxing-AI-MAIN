@@ -1,0 +1,30 @@
+{
+    "BoxingAgent": {
+        "elo": 1196.5300751550951,
+        "checkpoints": [
+            {
+                "steps": 3752,
+                "file_path": "results\\NowyColiderPlusDane\\BoxingAgent\\BoxingAgent-3752.onnx",
+                "reward": -227.76516941615515,
+                "creation_time": 1750755225.444398,
+                "auxillary_file_paths": [
+                    "results\\NowyColiderPlusDane\\BoxingAgent\\BoxingAgent-3752.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3752,
+            "file_path": "results\\NowyColiderPlusDane\\BoxingAgent.onnx",
+            "reward": -227.76516941615515,
+            "creation_time": 1750755225.444398,
+            "auxillary_file_paths": [
+                "results\\NowyColiderPlusDane\\BoxingAgent\\BoxingAgent-3752.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

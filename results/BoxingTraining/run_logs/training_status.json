@@ -1,0 +1,57 @@
+{
+    "BoxingAgent": {
+        "elo": 1200.0,
+        "checkpoints": [
+            {
+                "steps": 0,
+                "file_path": "results\\BoxingTraining\\BoxingAgent\\BoxingAgent-0.onnx",
+                "reward": null,
+                "creation_time": 1750615852.1140354,
+                "auxillary_file_paths": [
+                    "results\\BoxingTraining\\BoxingAgent\\BoxingAgent-0.pt"
+                ]
+            },
+            {
+                "steps": 0,
+                "file_path": "results\\BoxingTraining\\BoxingAgent\\BoxingAgent-0.onnx",
+                "reward": null,
+                "creation_time": 1750616076.988847,
+                "auxillary_file_paths": [
+                    "results\\BoxingTraining\\BoxingAgent\\BoxingAgent-0.pt"
+                ]
+            },
+            {
+                "steps": 0,
+                "file_path": "results\\BoxingTraining\\BoxingAgent\\BoxingAgent-0.onnx",
+                "reward": null,
+                "creation_time": 1750616453.4050076,
+                "auxillary_file_paths": [
+                    "results\\BoxingTraining\\BoxingAgent\\BoxingAgent-0.pt"
+                ]
+            },
+            {
+                "steps": 0,
+                "file_path": "results\\BoxingTraining\\BoxingAgent\\BoxingAgent-0.onnx",
+                "reward": null,
+                "creation_time": 1750618309.374327,
+                "auxillary_file_paths": [
+                    "results\\BoxingTraining\\BoxingAgent\\BoxingAgent-0.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 0,
+            "file_path": "results\\BoxingTraining\\BoxingAgent.onnx",
+            "reward": null,
+            "creation_time": 1750618309.374327,
+            "auxillary_file_paths": [
+                "results\\BoxingTraining\\BoxingAgent\\BoxingAgent-0.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

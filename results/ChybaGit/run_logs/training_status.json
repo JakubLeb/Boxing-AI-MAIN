@@ -1,0 +1,30 @@
+{
+    "BoxingAgent": {
+        "elo": 1173.380627690568,
+        "checkpoints": [
+            {
+                "steps": 90104,
+                "file_path": "results\\ChybaGit\\BoxingAgent\\BoxingAgent-90104.onnx",
+                "reward": -8.619139262608119,
+                "creation_time": 1750758864.3430326,
+                "auxillary_file_paths": [
+                    "results\\ChybaGit\\BoxingAgent\\BoxingAgent-90104.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 90104,
+            "file_path": "results\\ChybaGit\\BoxingAgent.onnx",
+            "reward": -8.619139262608119,
+            "creation_time": 1750758864.3430326,
+            "auxillary_file_paths": [
+                "results\\ChybaGit\\BoxingAgent\\BoxingAgent-90104.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

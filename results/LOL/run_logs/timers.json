@@ -1,0 +1,488 @@
+{
+    "name": "root",
+    "gauges": {
+        "BoxingAgent.Policy.Entropy.mean": {
+            "value": 3.0541763305664062,
+            "min": 3.0541763305664062,
+            "max": 3.364316701889038,
+            "count": 15
+        },
+        "BoxingAgent.Policy.Entropy.sum": {
+            "value": 43980.140625,
+            "min": 15169.6484375,
+            "max": 47315.75,
+            "count": 15
+        },
+        "BoxingAgent.Environment.EpisodeLength.mean": {
+            "value": 1199.0833333333333,
+            "min": 212.66666666666666,
+            "max": 1200.0,
+            "count": 15
+        },
+        "BoxingAgent.Environment.EpisodeLength.sum": {
+            "value": 14389.0,
+            "min": 1276.0,
+            "max": 15772.0,
+            "count": 15
+        },
+        "BoxingAgent.Custom.WinRate%.mean": {
+            "value": 6.4277388254801435,
+            "min": 3.8888888359069824,
+            "max": 50.0,
+            "count": 15
+        },
+        "BoxingAgent.Custom.WinRate%.sum": {
+            "value": 154.26573181152344,
+            "min": 50.0,
+            "max": 600.0,
+            "count": 15
+        },
+        "BoxingAgent.Custom.LossRate%.mean": {
+            "value": 7.185314575831096,
+            "min": 3.8888888359069824,
+            "max": 50.0,
+            "count": 15
+        },
+        "BoxingAgent.Custom.LossRate%.sum": {
+            "value": 172.4475498199463,
+            "min": 50.0,
+            "max": 600.0,
+            "count": 15
+        },
+        "BoxingAgent.Custom.DrawRate%.mean": {
+            "value": 86.38694508870442,
+            "min": 0.0,
+            "max": 92.22222137451172,
+            "count": 15
+        },
+        "BoxingAgent.Custom.DrawRate%.sum": {
+            "value": 2073.2866821289062,
+            "min": 0.0,
+            "max": 2133.3333282470703,
+            "count": 15
+        },
+        "BoxingAgent.Custom.HitRate%.mean": {
+            "value": 0.13966175071739903,
+            "min": 0.08832846768200397,
+            "max": 1.5301881432533264,
+            "count": 15
+        },
+        "BoxingAgent.Custom.HitRate%.sum": {
+            "value": 3.3518820172175765,
+            "min": 1.0599416121840477,
+            "max": 18.362257719039917,
+            "count": 15
+        },
+        "BoxingAgent.Custom.MissRate%.mean": {
+            "value": 95.76343472798665,
+            "min": 95.67877960205078,
+            "max": 96.97767039707729,
+            "count": 15
+        },
+        "BoxingAgent.Custom.MissRate%.sum": {
+            "value": 2298.3224334716797,
+            "min": 766.8026123046875,
+            "max": 2715.374771118164,
+            "count": 15
+        },
+        "BoxingAgent.Custom.SuccessfulDefense%.mean": {
+            "value": 3.4613824089368186,
+            "min": 3.4613824089368186,
+            "max": 5.353376865386963,
+            "count": 15
+        },
+        "BoxingAgent.Custom.SuccessfulDefense%.sum": {
+            "value": 83.07317781448364,
+            "min": 28.903518199920654,
+            "max": 149.26154232025146,
+            "count": 15
+        },
+        "BoxingAgent.Custom.EpisodeAttacks.mean": {
+            "value": 739.3333333333334,
+            "min": 421.5,
+            "max": 2258.0,
+            "count": 15
+        },
+        "BoxingAgent.Custom.EpisodeAttacks.sum": {
+            "value": 17744.0,
+            "min": 4154.0,
+            "max": 63224.0,
+            "count": 15
+        },
+        "BoxingAgent.Custom.EpisodeHits.mean": {
+            "value": 1.0833333333333333,
+            "min": 0.0,
+            "max": 5.666666666666667,
+            "count": 15
+        },
+        "BoxingAgent.Custom.EpisodeHits.sum": {
+            "value": 26.0,
+            "min": 0.0,
+            "max": 78.0,
+            "count": 15
+        },
+        "BoxingAgent.Custom.EpisodeMissedAttacks.mean": {
+            "value": 682.1666666666666,
+            "min": 403.8333333333333,
+            "max": 2193.4285714285716,
+            "count": 15
+        },
+        "BoxingAgent.Custom.EpisodeMissedAttacks.sum": {
+            "value": 16372.0,
+            "min": 3870.0,
+            "max": 61416.0,
+            "count": 15
+        },
+        "BoxingAgent.Custom.EpisodeHitRate%.mean": {
+            "value": 0.1427604779601097,
+            "min": 0.0,
+            "max": 1.4097914695739746,
+            "count": 15
+        },
+        "BoxingAgent.Custom.EpisodeHitRate%.sum": {
+            "value": 3.426251471042633,
+            "min": 0.0,
+            "max": 16.917497634887695,
+            "count": 15
+        },
+        "BoxingAgent.Custom.EpisodeDefenseRate%.mean": {
+            "value": 2.0386628905932107,
+            "min": 2.0386628905932107,
+            "max": 5.296935677528381,
+            "count": 15
+        },
+        "BoxingAgent.Custom.EpisodeDefenseRate%.sum": {
+            "value": 48.92790937423706,
+            "min": 18.487725019454956,
+            "max": 148.31419897079468,
+            "count": 15
+        },
+        "BoxingAgent.Custom.TotalDamageDealt.mean": {
+            "value": 411.6666666666667,
+            "min": 83.21428571428571,
+            "max": 507.5,
+            "count": 15
+        },
+        "BoxingAgent.Custom.TotalDamageDealt.sum": {
+            "value": 9880.0,
+            "min": 1160.0,
+            "max": 9880.0,
+            "count": 15
+        },
+        "BoxingAgent.Custom.TotalDamageTaken.mean": {
+            "value": 411.6666666666667,
+            "min": 83.21428571428571,
+            "max": 507.5,
+            "count": 15
+        },
+        "BoxingAgent.Custom.TotalDamageTaken.sum": {
+            "value": 9880.0,
+            "min": 1160.0,
+            "max": 9880.0,
+            "count": 15
+        },
+        "BoxingAgent.Custom.EpisodeLength.mean": {
+            "value": 120.02001953125,
+            "min": 21.316659291585285,
+            "max": 120.02001953125,
+            "count": 15
+        },
+        "BoxingAgent.Custom.EpisodeLength.sum": {
+            "value": 2880.48046875,
+            "min": 255.79991149902344,
+            "max": 3155.798843383789,
+            "count": 15
+        },
+        "BoxingAgent.Self-play.ELO.mean": {
+            "value": 1182.815926949969,
+            "min": 1182.815926949969,
+            "max": 1200.332375306226,
+            "count": 15
+        },
+        "BoxingAgent.Self-play.ELO.sum": {
+            "value": 7096.895561699815,
+            "min": 2365.631853899938,
+            "max": 8390.530305844632,
+            "count": 15
+        },
+        "BoxingAgent.Step.mean": {
+            "value": 74378.0,
+            "min": 4641.0,
+            "max": 74378.0,
+            "count": 15
+        },
+        "BoxingAgent.Step.sum": {
+            "value": 74378.0,
+            "min": 4641.0,
+            "max": 74378.0,
+            "count": 15
+        },
+        "BoxingAgent.Policy.ExtrinsicValueEstimate.mean": {
+            "value": -16.675094604492188,
+            "min": -19.83490562438965,
+            "max": -0.23561672866344452,
+            "count": 15
+        },
+        "BoxingAgent.Policy.ExtrinsicValueEstimate.sum": {
+            "value": -166.75094604492188,
+            "min": -182.1964569091797,
+            "max": -1.6493171453475952,
+            "count": 15
+        },
+        "BoxingAgent.Environment.CumulativeReward.mean": {
+            "value": -15.551636457443237,
+            "min": -1645.4130859375,
+            "max": -15.551636457443237,
+            "count": 15
+        },
+        "BoxingAgent.Environment.CumulativeReward.sum": {
+            "value": -93.30981874465942,
+            "min": -11490.719146728516,
+            "max": -54.859939098358154,
+            "count": 15
+        },
+        "BoxingAgent.Policy.ExtrinsicReward.mean": {
+            "value": -15.551636457443237,
+            "min": -1645.4130859375,
+            "max": -15.551636457443237,
+            "count": 15
+        },
+        "BoxingAgent.Policy.ExtrinsicReward.sum": {
+            "value": -93.30981874465942,
+            "min": -11490.719146728516,
+            "max": -54.859939098358154,
+            "count": 15
+        },
+        "BoxingAgent.IsTraining.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 15
+        },
+        "BoxingAgent.IsTraining.sum": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 15
+        },
+        "BoxingAgent.Losses.PolicyLoss.mean": {
+            "value": 0.010810178720081847,
+            "min": 0.010810178720081847,
+            "max": 0.022605366461599868,
+            "count": 6
+        },
+        "BoxingAgent.Losses.PolicyLoss.sum": {
+            "value": 0.010810178720081847,
+            "min": 0.010810178720081847,
+            "max": 0.022605366461599868,
+            "count": 6
+        },
+        "BoxingAgent.Losses.ValueLoss.mean": {
+            "value": 24.94900550842285,
+            "min": 24.94900550842285,
+            "max": 644.4682250976563,
+            "count": 6
+        },
+        "BoxingAgent.Losses.ValueLoss.sum": {
+            "value": 24.94900550842285,
+            "min": 24.94900550842285,
+            "max": 644.4682250976563,
+            "count": 6
+        },
+        "BoxingAgent.Policy.LearningRate.mean": {
+            "value": 0.00026029321323560006,
+            "min": 0.00026029321323560006,
+            "max": 0.00029307960230679994,
+            "count": 6
+        },
+        "BoxingAgent.Policy.LearningRate.sum": {
+            "value": 0.00026029321323560006,
+            "min": 0.00026029321323560006,
+            "max": 0.00029307960230679994,
+            "count": 6
+        },
+        "BoxingAgent.Policy.Epsilon.mean": {
+            "value": 0.18676439999999997,
+            "min": 0.18676439999999997,
+            "max": 0.19769319999999996,
+            "count": 6
+        },
+        "BoxingAgent.Policy.Epsilon.sum": {
+            "value": 0.18676439999999997,
+            "min": 0.18676439999999997,
+            "max": 0.19769319999999996,
+            "count": 6
+        },
+        "BoxingAgent.Policy.Beta.mean": {
+            "value": 0.00433954356,
+            "min": 0.00433954356,
+            "max": 0.004884890680000002,
+            "count": 6
+        },
+        "BoxingAgent.Policy.Beta.sum": {
+            "value": 0.00433954356,
+            "min": 0.00433954356,
+            "max": 0.004884890680000002,
+            "count": 6
+        }
+    },
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1750760150",
+        "python_version": "3.10.12 | packaged by Anaconda, Inc. | (main, Jul  5 2023, 19:01:18) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\nazwi\\anaconda3\\envs\\venv\\Scripts\\mlagents-learn Assets\\trainer_config.yaml --run-id=LOL",
+        "mlagents_version": "1.1.0",
+        "mlagents_envs_version": "1.1.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.2.2+cu121",
+        "numpy_version": "1.23.5",
+        "end_time_seconds": "1750760771"
+    },
+    "total": 621.5276218999643,
+    "count": 1,
+    "self": 0.011375699890777469,
+    "children": {
+        "run_training.setup": {
+            "total": 0.13654109998606145,
+            "count": 1,
+            "self": 0.13654109998606145
+        },
+        "TrainerController.start_learning": {
+            "total": 621.3797051000874,
+            "count": 1,
+            "self": 0.32320819958113134,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 10.602386700222269,
+                    "count": 2,
+                    "self": 10.602386700222269
+                },
+                "TrainerController.advance": {
+                    "total": 610.2023973003961,
+                    "count": 13313,
+                    "self": 0.33967489190399647,
+                    "children": {
+                        "env_step": {
+                            "total": 581.9359274976887,
+                            "count": 13313,
+                            "self": 538.9876793036237,
+                            "children": {
+                                "SubprocessEnvManager._take_step": {
+                                    "total": 42.73994328617118,
+                                    "count": 13313,
+                                    "self": 1.6887431764043868,
+                                    "children": {
+                                        "TorchPolicy.evaluate": {
+                                            "total": 41.051200109766796,
+                                            "count": 26514,
+                                            "self": 41.051200109766796
+                                        }
+                                    }
+                                },
+                                "workers": {
+                                    "total": 0.208304907893762,
+                                    "count": 13312,
+                                    "self": 0.0,
+                                    "children": {
+                                        "worker_root": {
+                                            "total": 546.7563980971463,
+                                            "count": 13312,
+                                            "is_parallel": true,
+                                            "self": 96.99514919379726,
+                                            "children": {
+                                                "steps_from_proto": {
+                                                    "total": 0.004696000134572387,
+                                                    "count": 4,
+                                                    "is_parallel": true,
+                                                    "self": 0.001165700377896428,
+                                                    "children": {
+                                                        "_process_rank_one_or_two_observation": {
+                                                            "total": 0.0035302997566759586,
+                                                            "count": 24,
+                                                            "is_parallel": true,
+                                                            "self": 0.0035302997566759586
+                                                        }
+                                                    }
+                                                },
+                                                "UnityEnvironment.step": {
+                                                    "total": 449.75655290321447,
+                                                    "count": 13312,
+                                                    "is_parallel": true,
+                                                    "self": 3.5188238844275475,
+                                                    "children": {
+                                                        "UnityEnvironment._generate_step_input": {
+                                                            "total": 3.520800312049687,
+                                                            "count": 13312,
+                                                            "is_parallel": true,
+                                                            "self": 3.520800312049687
+                                                        },
+                                                        "communicator.exchange": {
+                                                            "total": 430.78185000712983,
+                                                            "count": 13312,
+                                                            "is_parallel": true,
+                                                            "self": 430.78185000712983
+                                                        },
+                                                        "steps_from_proto": {
+                                                            "total": 11.935078699607402,
+                                                            "count": 26624,
+                                                            "is_parallel": true,
+                                                            "self": 4.486395484302193,
+                                                            "children": {
+                                                                "_process_rank_one_or_two_observation": {
+                                                                    "total": 7.448683215305209,
+                                                                    "count": 159744,
+                                                                    "is_parallel": true,
+                                                                    "self": 7.448683215305209
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "trainer_advance": {
+                            "total": 27.926794910803437,
+                            "count": 13312,
+                            "self": 1.2280563050881028,
+                            "children": {
+                                "process_trajectory": {
+                                    "total": 6.286498706322163,
+                                    "count": 13312,
+                                    "self": 6.286498706322163
+                                },
+                                "_update_policy": {
+                                    "total": 20.41223989939317,
+                                    "count": 7,
+                                    "self": 14.24163009878248,
+                                    "children": {
+                                        "TorchPPOOptimizer.update": {
+                                            "total": 6.170609800610691,
+                                            "count": 105,
+                                            "self": 6.170609800610691
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "TrainerController._save_models": {
+                    "total": 0.2517128998879343,
+                    "count": 1,
+                    "self": 0.014280099887400866,
+                    "children": {
+                        "RLTrainer._checkpoint": {
+                            "total": 0.23743280000053346,
+                            "count": 1,
+                            "self": 0.23743280000053346
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

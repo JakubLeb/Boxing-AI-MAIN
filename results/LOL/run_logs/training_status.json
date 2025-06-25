@@ -1,0 +1,30 @@
+{
+    "BoxingAgent": {
+        "elo": 1182.815926949969,
+        "checkpoints": [
+            {
+                "steps": 77378,
+                "file_path": "results\\LOL\\BoxingAgent\\BoxingAgent-77378.onnx",
+                "reward": null,
+                "creation_time": 1750760771.619955,
+                "auxillary_file_paths": [
+                    "results\\LOL\\BoxingAgent\\BoxingAgent-77378.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 77378,
+            "file_path": "results\\LOL\\BoxingAgent.onnx",
+            "reward": null,
+            "creation_time": 1750760771.619955,
+            "auxillary_file_paths": [
+                "results\\LOL\\BoxingAgent\\BoxingAgent-77378.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
